@@ -38,7 +38,7 @@ This project has been designed to meet the requirements of the technical test, d
 2. Access the project directory:
 
    ```bash
-   cd BackendSymphonyTest
+   cd PruebaBackendSymphony
    ```
 
 3. In the project root, create a `.env` file with the following structure:
